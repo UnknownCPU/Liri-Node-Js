@@ -1,0 +1,27 @@
+{
+  "name": "Liri-Node-Js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnknownCPU/Liri-Node-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnknownCPU/Liri-Node-Js/issues"
+  },
+  "homepage": "https://github.com/UnknownCPU/Liri-Node-Js#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "latest-tweets": "^1.0.3",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  }
+}
